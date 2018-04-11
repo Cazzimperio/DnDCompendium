@@ -17707,7 +17707,7 @@
         "Usage": ""
       }
     ],
-    "Challenge": "l",
+    "Challenge": "1",
     "ConditionImmunities": [
       "exhaustion",
       "poisoned"
@@ -57761,10 +57761,10 @@
       "Value": "11"
     },
     "Abilities": {
-      "Cha": "l",
+      "Cha": "1",
       "Con": "12",
       "Dex": "12",
-      "Int": "l",
+      "Int": "1",
       "Str": "13",
       "Wis": "10"
     },
