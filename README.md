@@ -1,4 +1,4 @@
 # DnDCompendium
 
 ## Bestiary
-<a href="https://raw.githubusercontent.com/FlailOctopus/DnDCompendium/master/Bestiary/monstersCompendium.json" download>Download</a>
+<a href="https://github.com/FlailOctopus/DnDCompendium/blob/master/Bestiary/monstersCompendium.dd?raw=true?">Download</a>
