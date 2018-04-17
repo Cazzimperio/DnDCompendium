@@ -7,4 +7,4 @@ To dowload any file:
 
 ### Bestiary
 Compendium - 
-[Download](/Bestiary/Official Content/monstersCompendium.json?raw=true)
+[Download](/Bestiary/Official/monstersCompendium.json?raw=true)
