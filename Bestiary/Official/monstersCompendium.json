@@ -79,7 +79,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -162,7 +162,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -290,7 +290,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -468,7 +468,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -608,7 +608,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -893,7 +893,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -1021,7 +1021,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -1165,7 +1165,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -1306,7 +1306,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -1455,7 +1455,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -1609,7 +1609,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -1749,7 +1749,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -1892,7 +1892,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -2035,7 +2035,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with mage armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -2325,7 +2325,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -2465,7 +2465,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -2535,7 +2535,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -2619,7 +2619,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -2764,7 +2764,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -2893,7 +2893,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -3042,7 +3042,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -3191,7 +3191,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "21"
     },
     "Abilities": {
@@ -3337,7 +3337,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -3491,7 +3491,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "21"
     },
     "Abilities": {
@@ -3645,7 +3645,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -3780,7 +3780,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -3928,7 +3928,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -4055,7 +4055,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -4194,7 +4194,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -4278,7 +4278,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -4368,7 +4368,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor, 11 while prone)",
       "Value": "14"
     },
     "Abilities": {
@@ -4432,7 +4432,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -4484,7 +4484,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -4753,7 +4753,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -4890,7 +4890,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -4980,7 +4980,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -5060,7 +5060,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -5148,7 +5148,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -5267,7 +5267,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt, shield)",
       "Value": "15"
     },
     "Abilities": {
@@ -5349,7 +5349,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -5555,7 +5555,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -5620,7 +5620,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -5742,7 +5742,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with mage armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -5845,7 +5845,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor, shield)",
       "Value": "17"
     },
     "Abilities": {
@@ -5926,7 +5926,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -6022,7 +6022,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -6127,7 +6127,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -6345,7 +6345,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -6473,7 +6473,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -6568,7 +6568,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -6634,7 +6634,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -6846,7 +6846,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -7008,7 +7008,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -7137,7 +7137,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt)",
       "Value": "15"
     },
     "Abilities": {
@@ -7234,7 +7234,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -7357,7 +7357,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -7548,7 +7548,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -7618,7 +7618,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -7765,7 +7765,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -7872,7 +7872,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -7962,7 +7962,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -8053,7 +8053,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -8226,7 +8226,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -8293,7 +8293,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -8426,7 +8426,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -8498,7 +8498,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -8773,7 +8773,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -9290,7 +9290,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -9382,7 +9382,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -9454,7 +9454,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -9548,7 +9548,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -9612,7 +9612,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -9810,7 +9810,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -9919,7 +9919,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -10033,7 +10033,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -10100,7 +10100,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -10167,7 +10167,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -10260,7 +10260,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -10325,7 +10325,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -10388,7 +10388,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -10486,7 +10486,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -10579,7 +10579,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -10654,7 +10654,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -10741,7 +10741,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt, shield)",
       "Value": "17"
     },
     "Abilities": {
@@ -10842,7 +10842,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -10918,7 +10918,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor, shield)",
       "Value": "15"
     },
     "Abilities": {
@@ -11096,7 +11096,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail)",
       "Value": "19"
     },
     "Abilities": {
@@ -11277,7 +11277,7 @@
   },
   {
     "AC": {
-      "Notes": "(splint,",
+      "Notes": "(splint, shield)",
       "Value": "19"
     },
     "Abilities": {
@@ -11378,7 +11378,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -11529,7 +11529,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -11599,7 +11599,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -11673,7 +11673,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -11854,7 +11854,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -11960,7 +11960,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -12065,7 +12065,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -12247,7 +12247,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -12350,7 +12350,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -12432,7 +12432,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -12524,7 +12524,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -12630,7 +12630,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -12718,7 +12718,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -12786,7 +12786,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -12894,7 +12894,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -12995,7 +12995,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -13104,7 +13104,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -13331,7 +13331,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -13475,7 +13475,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -13569,7 +13569,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -13730,7 +13730,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -14014,7 +14014,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -14080,7 +14080,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt)",
       "Value": "13"
     },
     "Abilities": {
@@ -14232,7 +14232,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -14316,7 +14316,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -14386,7 +14386,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -14461,7 +14461,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -14763,7 +14763,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -14852,7 +14852,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -15180,7 +15180,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -15272,7 +15272,7 @@
   },
   {
     "AC": {
-      "Notes": "(plate,",
+      "Notes": "(plate, shield)",
       "Value": "20"
     },
     "Abilities": {
@@ -15397,7 +15397,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -15516,7 +15516,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -15622,7 +15622,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -15730,7 +15730,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt)",
       "Value": "15"
     },
     "Abilities": {
@@ -16057,7 +16057,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -16131,7 +16131,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -16266,7 +16266,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -16413,7 +16413,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -16496,7 +16496,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -16582,7 +16582,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -16698,7 +16698,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -16778,7 +16778,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -16842,7 +16842,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -16917,7 +16917,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -16988,7 +16988,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -17071,7 +17071,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -17174,7 +17174,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -17341,7 +17341,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -17489,7 +17489,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -17588,7 +17588,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -17679,7 +17679,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -17781,7 +17781,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "16"
     },
     "Abilities": {
@@ -17888,7 +17888,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -17990,7 +17990,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -18213,7 +18213,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -18312,7 +18312,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -18393,7 +18393,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -18502,7 +18502,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -18613,7 +18613,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -18715,7 +18715,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt)",
       "Value": "15"
     },
     "Abilities": {
@@ -18804,7 +18804,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -18917,7 +18917,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -19019,7 +19019,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail)",
       "Value": "15"
     },
     "Abilities": {
@@ -19139,7 +19139,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt)",
       "Value": "15"
     },
     "Abilities": {
@@ -19198,7 +19198,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with barkskin)",
       "Value": "11"
     },
     "Abilities": {
@@ -19279,7 +19279,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with barkskin)",
       "Value": "11"
     },
     "Abilities": {
@@ -19371,7 +19371,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -19457,7 +19457,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -19545,7 +19545,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -19643,7 +19643,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -19736,7 +19736,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -19824,7 +19824,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale armor, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -19885,7 +19885,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -20017,7 +20017,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -20183,7 +20183,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -20503,7 +20503,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -20697,7 +20697,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -20959,7 +20959,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -21159,7 +21159,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -21289,7 +21289,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -21491,7 +21491,7 @@
   },
   {
     "AC": {
-      "Notes": "(breastplate,",
+      "Notes": "(breastplate, shield; 15 while using a crossbow)",
       "Value": "17"
     },
     "Abilities": {
@@ -21579,7 +21579,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -21662,7 +21662,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -21771,7 +21771,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -21936,7 +21936,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -22019,7 +22019,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor +1)",
       "Value": "17"
     },
     "Abilities": {
@@ -22854,7 +22854,7 @@
   },
   {
     "AC": {
-      "Notes": "(13",
+      "Notes": "(13 with mage armor)",
       "Value": "10"
     },
     "Abilities": {
@@ -23026,7 +23026,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -23408,7 +23408,7 @@
   },
   {
     "AC": {
-      "Notes": "(plate,",
+      "Notes": "(plate, shields)",
       "Value": "21"
     },
     "Abilities": {
@@ -23508,7 +23508,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -23589,7 +23589,7 @@
   },
   {
     "AC": {
-      "Notes": "(13",
+      "Notes": "(13 with mage armor)",
       "Value": "10"
     },
     "Abilities": {
@@ -23671,7 +23671,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -23746,7 +23746,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -23941,7 +23941,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -24131,7 +24131,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail)",
       "Value": "16"
     },
     "Abilities": {
@@ -24392,7 +24392,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -24476,7 +24476,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -24558,7 +24558,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -24781,7 +24781,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -24884,7 +24884,7 @@
   },
   {
     "AC": {
-      "Notes": "(patchwork",
+      "Notes": "(patchwork armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -24979,7 +24979,7 @@
   },
   {
     "AC": {
-      "Notes": "(patchwork",
+      "Notes": "(patchwork armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -25086,7 +25086,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail)",
       "Value": "16"
     },
     "Abilities": {
@@ -25173,7 +25173,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -25262,7 +25262,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -25363,7 +25363,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -25524,7 +25524,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -25782,7 +25782,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -26386,7 +26386,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -26450,7 +26450,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -26580,7 +26580,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -26647,7 +26647,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -26721,7 +26721,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -26875,7 +26875,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -26949,7 +26949,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -27147,7 +27147,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -27354,7 +27354,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -27782,7 +27782,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -27853,7 +27853,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -27917,7 +27917,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -27987,7 +27987,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -28079,7 +28079,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -28146,7 +28146,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -28840,7 +28840,7 @@
   },
   {
     "AC": {
-      "Notes": "(half",
+      "Notes": "(half plate)",
       "Value": "17"
     },
     "Abilities": {
@@ -29114,7 +29114,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -29226,7 +29226,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -29329,7 +29329,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor, shield)",
       "Value": "15"
     },
     "Abilities": {
@@ -29411,7 +29411,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -29507,7 +29507,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -29591,7 +29591,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -29679,7 +29679,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt)",
       "Value": "15"
     },
     "Abilities": {
@@ -29771,7 +29771,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -29920,7 +29920,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor, shield)",
       "Value": "15"
     },
     "Abilities": {
@@ -29999,7 +29999,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt, shield)",
       "Value": "17"
     },
     "Abilities": {
@@ -30089,7 +30089,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -30188,7 +30188,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -30266,7 +30266,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -30569,7 +30569,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -30688,7 +30688,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -30848,7 +30848,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -30944,7 +30944,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -31044,7 +31044,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -31122,7 +31122,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -31239,7 +31239,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -31440,7 +31440,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -31517,7 +31517,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -31767,7 +31767,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -32063,7 +32063,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with barkskin)",
       "Value": "13"
     },
     "Abilities": {
@@ -32175,7 +32175,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -32234,7 +32234,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -32308,7 +32308,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -32410,7 +32410,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "5"
     },
     "Abilities": {
@@ -32492,7 +32492,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -32614,7 +32614,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -32672,7 +32672,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -32972,7 +32972,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -33162,7 +33162,7 @@
   },
   {
     "AC": {
-      "Notes": "(plate,",
+      "Notes": "(plate, shield)",
       "Value": "20"
     },
     "Abilities": {
@@ -33259,7 +33259,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -33367,7 +33367,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -33517,7 +33517,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -33589,7 +33589,7 @@
   },
   {
     "AC": {
-      "Notes": "(half",
+      "Notes": "(half plate)",
       "Value": "17"
     },
     "Abilities": {
@@ -33671,7 +33671,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -33852,7 +33852,7 @@
   },
   {
     "AC": {
-      "Notes": "(plate,",
+      "Notes": "(plate, shield)",
       "Value": "20"
     },
     "Abilities": {
@@ -33958,7 +33958,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -34027,7 +34027,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -34107,7 +34107,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -34174,7 +34174,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -34371,7 +34371,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -34467,7 +34467,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -34543,7 +34543,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -34707,7 +34707,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -34865,7 +34865,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -34981,7 +34981,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -35203,7 +35203,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -35283,7 +35283,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -35455,7 +35455,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -36004,7 +36004,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -36112,7 +36112,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -36174,7 +36174,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -36242,7 +36242,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -36382,7 +36382,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -36627,7 +36627,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -36739,7 +36739,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -36901,7 +36901,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -36995,7 +36995,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -37189,7 +37189,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -37325,7 +37325,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -37566,7 +37566,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor, shield)",
       "Value": "15"
     },
     "Abilities": {
@@ -37734,7 +37734,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -37825,7 +37825,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -37935,7 +37935,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -38159,7 +38159,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor, shield)",
       "Value": "13"
     },
     "Abilities": {
@@ -38256,7 +38256,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -38356,7 +38356,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor, unarmored defense)",
       "Value": "13"
     },
     "Abilities": {
@@ -38456,7 +38456,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -38556,7 +38556,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -38831,7 +38831,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -38929,7 +38929,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -39074,7 +39074,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -39297,7 +39297,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -39409,7 +39409,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor, shield)",
       "Value": "15"
     },
     "Abilities": {
@@ -39507,7 +39507,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -39841,7 +39841,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -40019,7 +40019,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -40095,7 +40095,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -40171,7 +40171,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -40292,7 +40292,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -40355,7 +40355,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "9"
     },
     "Abilities": {
@@ -40422,7 +40422,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -40503,7 +40503,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -40614,7 +40614,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -40819,7 +40819,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -41010,7 +41010,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -41189,7 +41189,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -41261,7 +41261,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -41359,7 +41359,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -41515,7 +41515,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -41594,7 +41594,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -41707,7 +41707,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -42154,7 +42154,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -42250,7 +42250,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -42335,7 +42335,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -42411,7 +42411,7 @@
   },
   {
     "AC": {
-      "Notes": "(13",
+      "Notes": "(13 with mage armor)",
       "Value": "10"
     },
     "Abilities": {
@@ -42566,7 +42566,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -42657,7 +42657,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -42730,7 +42730,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -42942,7 +42942,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -43171,7 +43171,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -43252,7 +43252,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -43401,7 +43401,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -43476,7 +43476,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -43741,7 +43741,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -43859,7 +43859,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 to mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -44041,7 +44041,7 @@
   },
   {
     "AC": {
-      "Notes": "(13",
+      "Notes": "(13 with mage armor)",
       "Value": "10"
     },
     "Abilities": {
@@ -44116,7 +44116,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -44202,7 +44202,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -44268,7 +44268,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -44430,7 +44430,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -44548,7 +44548,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -44842,7 +44842,7 @@
   },
   {
     "AC": {
-      "Notes": "(14",
+      "Notes": "(14 with mage armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -44945,7 +44945,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -45076,7 +45076,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -45152,7 +45152,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -45315,7 +45315,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -45411,7 +45411,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -45702,7 +45702,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -45841,7 +45841,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -45981,7 +45981,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -46122,7 +46122,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -46212,7 +46212,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail)",
       "Value": "16"
     },
     "Abilities": {
@@ -46334,7 +46334,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "9"
     },
     "Abilities": {
@@ -46464,7 +46464,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -46546,7 +46546,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -46650,7 +46650,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -46742,7 +46742,7 @@
   },
   {
     "AC": {
-      "Notes": "(ring",
+      "Notes": "(ring mail, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -46833,7 +46833,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -47006,7 +47006,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -47116,7 +47116,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail)",
       "Value": "16"
     },
     "Abilities": {
@@ -47226,7 +47226,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -47380,7 +47380,7 @@
   },
   {
     "AC": {
-      "Notes": "(14",
+      "Notes": "(14 with mage armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -47647,7 +47647,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -47809,7 +47809,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -48100,7 +48100,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -48182,7 +48182,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -48379,7 +48379,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor, shield)",
       "Value": "15"
     },
     "Abilities": {
@@ -48491,7 +48491,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -48576,7 +48576,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -48650,7 +48650,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -48723,7 +48723,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -48924,7 +48924,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -49040,7 +49040,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -49166,7 +49166,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -49395,7 +49395,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt)",
       "Value": "13"
     },
     "Abilities": {
@@ -49566,7 +49566,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -49630,7 +49630,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -49711,7 +49711,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -49774,7 +49774,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -49857,7 +49857,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -49935,7 +49935,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -50003,7 +50003,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -50186,7 +50186,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -50412,7 +50412,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "18"
     },
     "Abilities": {
@@ -50528,7 +50528,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -50687,7 +50687,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with mage armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -50940,7 +50940,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -51032,7 +51032,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -51104,7 +51104,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -51198,7 +51198,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -51260,7 +51260,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -51349,7 +51349,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -51419,7 +51419,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -51489,7 +51489,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -51616,7 +51616,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with the Black Dragon Mask)",
       "Value": "13"
     },
     "Abilities": {
@@ -51755,7 +51755,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -51813,7 +51813,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -51975,7 +51975,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -52068,7 +52068,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "20"
     },
     "Abilities": {
@@ -52305,7 +52305,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -52554,7 +52554,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -52759,7 +52759,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -52857,7 +52857,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -52943,7 +52943,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -53123,7 +53123,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -53181,7 +53181,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -53274,7 +53274,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -53423,7 +53423,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -53519,7 +53519,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -54123,7 +54123,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -54209,7 +54209,7 @@
   },
   {
     "AC": {
-      "Notes": "(Barkskin",
+      "Notes": "(Barkskin trait)",
       "Value": "16"
     },
     "Abilities": {
@@ -54302,7 +54302,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -54396,7 +54396,7 @@
   },
   {
     "AC": {
-      "Notes": "(13",
+      "Notes": "(13 with mage armor)",
       "Value": "10"
     },
     "Abilities": {
@@ -54485,7 +54485,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -54652,7 +54652,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail)",
       "Value": "16"
     },
     "Abilities": {
@@ -54734,7 +54734,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -54911,7 +54911,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain mail, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -55182,7 +55182,7 @@
   },
   {
     "AC": {
-      "Notes": "(armor",
+      "Notes": "(armor scraps)",
       "Value": "13"
     },
     "Abilities": {
@@ -55249,7 +55249,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -55616,7 +55616,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "21"
     },
     "Abilities": {
@@ -55850,7 +55850,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -56113,7 +56113,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -56218,7 +56218,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -56311,7 +56311,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -56593,7 +56593,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -56715,7 +56715,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -56771,7 +56771,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -56883,7 +56883,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -56988,7 +56988,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -57171,7 +57171,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail)",
       "Value": "16"
     },
     "Abilities": {
@@ -57512,7 +57512,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -57682,7 +57682,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "21"
     },
     "Abilities": {
@@ -57782,7 +57782,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -57994,7 +57994,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -58067,7 +58067,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -58230,7 +58230,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -58707,7 +58707,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -58793,7 +58793,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -58865,7 +58865,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -58954,7 +58954,7 @@
   },
   {
     "AC": {
-      "Notes": "(scale",
+      "Notes": "(scale mail +1, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -59058,7 +59058,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -59157,7 +59157,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "25"
     },
     "Abilities": {
@@ -59315,7 +59315,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -59479,7 +59479,7 @@
   },
   {
     "AC": {
-      "Notes": "(chain",
+      "Notes": "(chain shirt, shield)",
       "Value": "16"
     },
     "Abilities": {
@@ -59563,7 +59563,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with mage armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -59759,7 +59759,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -59837,7 +59837,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -59943,7 +59943,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -60052,7 +60052,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -60224,7 +60224,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "25"
     },
     "Abilities": {
@@ -60485,7 +60485,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -60567,7 +60567,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -60650,7 +60650,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -60722,7 +60722,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -60811,7 +60811,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -60975,7 +60975,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -61041,7 +61041,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -61105,7 +61105,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -61182,7 +61182,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -61271,7 +61271,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -61374,7 +61374,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -61465,7 +61465,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -61539,7 +61539,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -61725,7 +61725,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -61845,7 +61845,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -62129,7 +62129,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -62281,7 +62281,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -62388,7 +62388,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -62670,7 +62670,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -62732,7 +62732,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -62908,7 +62908,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -63079,7 +63079,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -63174,7 +63174,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -63258,7 +63258,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -63410,7 +63410,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -63558,7 +63558,7 @@
   },
   {
     "AC": {
-      "Notes": "(half",
+      "Notes": "(half plate)",
       "Value": "17"
     },
     "Abilities": {
@@ -63678,7 +63678,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -64012,7 +64012,7 @@
   },
   {
     "AC": {
-      "Notes": "(barding",
+      "Notes": "(barding scraps)",
       "Value": "13"
     },
     "Abilities": {
@@ -64074,7 +64074,7 @@
   },
   {
     "AC": {
-      "Notes": "(14",
+      "Notes": "(14 with mage armor)",
       "Value": "11"
     },
     "Abilities": {
@@ -64177,7 +64177,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -64280,7 +64280,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -64503,7 +64503,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -64860,7 +64860,7 @@
   },
   {
     "AC": {
-      "Notes": "(in",
+      "Notes": "(in humanoid form, 11 in bear and hybrid forms )",
       "Value": "10"
     },
     "Abilities": {
@@ -64953,7 +64953,7 @@
   },
   {
     "AC": {
-      "Notes": "(in",
+      "Notes": "(in humanoid form, 11 in boar and hybrid forms )",
       "Value": "10"
     },
     "Abilities": {
@@ -65343,7 +65343,7 @@
   },
   {
     "AC": {
-      "Notes": "(in",
+      "Notes": "(in humanoid form, 12 in wolf or hybrid form)",
       "Value": "11"
     },
     "Abilities": {
@@ -65435,7 +65435,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -65530,7 +65530,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -65609,7 +65609,7 @@
   },
   {
     "AC": {
-      "Notes": "",
+      "Notes": "       ",
       "Value": "5\n"
     },
     "Abilities": {
@@ -65708,7 +65708,7 @@
   },
   {
     "AC": {
-      "Notes": "(16",
+      "Notes": "(16 with barkskin)",
       "Value": "11"
     },
     "Abilities": {
@@ -65786,7 +65786,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "14"
     },
     "Abilities": {
@@ -65993,7 +65993,7 @@
   },
   {
     "AC": {
-      "Notes": "(studded",
+      "Notes": "(studded leather)",
       "Value": "15"
     },
     "Abilities": {
@@ -66161,7 +66161,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -66252,7 +66252,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -66327,7 +66327,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor, shield)",
       "Value": "18"
     },
     "Abilities": {
@@ -66431,7 +66431,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -66599,7 +66599,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -66676,7 +66676,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "19"
     },
     "Abilities": {
@@ -66773,7 +66773,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -66856,7 +66856,7 @@
   },
   {
     "AC": {
-      "Notes": "(leather",
+      "Notes": "(leather armor)",
       "Value": "13"
     },
     "Abilities": {
@@ -66913,7 +66913,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -67001,7 +67001,7 @@
   },
   {
     "AC": {
-      "Notes": "(hide",
+      "Notes": "(hide armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -67166,7 +67166,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -67313,7 +67313,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "22"
     },
     "Abilities": {
@@ -67460,7 +67460,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -67551,7 +67551,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -67640,7 +67640,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -67736,7 +67736,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -67874,7 +67874,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -67983,7 +67983,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -68086,7 +68086,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -68194,7 +68194,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -68307,7 +68307,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -68416,7 +68416,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -68534,7 +68534,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -68649,7 +68649,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -68752,7 +68752,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -68873,7 +68873,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -68939,7 +68939,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
@@ -69050,7 +69050,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "17"
     },
     "Abilities": {
@@ -69162,7 +69162,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "15"
     },
     "Abilities": {
@@ -69273,7 +69273,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "16"
     },
     "Abilities": {
@@ -69408,7 +69408,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -69831,7 +69831,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -69964,7 +69964,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -70097,7 +70097,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "14"
     },
     "Abilities": {
@@ -70325,7 +70325,7 @@
   },
   {
     "AC": {
-      "Notes": "(15",
+      "Notes": "(15 with mage armor)",
       "Value": "12"
     },
     "Abilities": {
@@ -70587,7 +70587,7 @@
   },
   {
     "AC": {
-      "Notes": "(natural",
+      "Notes": "(natural armor)",
       "Value": "18"
     },
     "Abilities": {
