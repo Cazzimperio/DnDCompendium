@@ -1,6 +1,6 @@
 # Hazards
 
-Every hazard has a description and is associate with one or more environments. 
+Every hazard has a description and is associated with one or more environments. 
 
 Environments are:
 **forest, mountain, swamp, desert, arctic, coast, aquatic, grassland, underground, city, ruins, dungeon**
